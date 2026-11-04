@@ -8,8 +8,6 @@ import {
   ClipboardCheck,
   ChartNoAxesCombined,
   Menu,
-  Search,
-  Bell,
   ArrowRight,
   GraduationCap,
   Lightbulb,
